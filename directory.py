@@ -1,0 +1,1 @@
+main_directory = r'C:\Users\79912\Desktop\manager'
